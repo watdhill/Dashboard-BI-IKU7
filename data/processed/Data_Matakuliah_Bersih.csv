@@ -1,0 +1,732 @@
+prodi,kode_mk,nama mata kuliah,semester mk,sks,metode
+Administrasi Publik,MWU60102,Pancasila,Ganjil 2024/2025,2,Biasa
+Administrasi Publik,MWU60103,Kewarganegaraan,Ganjil 2024/2025,2,Biasa
+Administrasi Publik,ISF61101,Dasar-Dasar Ilmu Sosial,Ganjil 2024/2025,3,Biasa
+Administrasi Publik,ISF61102,Dasar-Dasar Ilmu Politik,Ganjil 2024/2025,3,Biasa
+Administrasi Publik,ISF61103,Dasar-Dasar Logika,Ganjil 2024/2025,3,Biasa
+Administrasi Publik,ISF61104,Bahasa Inggris,Ganjil 2024/2025,3,Biasa
+Administrasi Publik,ISN61101,Pengantar Administrasi Publik,Ganjil 2024/2025,3,Biasa
+Administrasi Publik,ISN61102,Azaz-Azaz Manajemen,Ganjil 2024/2025,3,Biasa
+Administrasi Publik,ISF61108,Dasar-Dasar Penelitian Sosial,Ganjil 2024/2025,3,Biasa
+Administrasi Publik,ISN61127,Pendidikan Anti Korupsi,Ganjil 2024/2025,3,Biasa
+Administrasi Publik,ISN61106,Hukum Administrasi Negara,Ganjil 2024/2025,3,Biasa
+Administrasi Publik,ISN61107,Kepemimpinan,Ganjil 2024/2025,3,Biasa
+Administrasi Publik,ISN61109,Manajemen Publik,Ganjil 2024/2025,3,Biasa
+Administrasi Publik,ISN61110,Kebijakan Publik,Ganjil 2024/2025,3,Biasa
+Administrasi Publik,ISN61111,Administrasi Pembangunan,Ganjil 2024/2025,3,Biasa
+Administrasi Publik,ISN61228,Administrasi Negara Dan Teori Sosial,Ganjil 2024/2025,3,Biasa
+Administrasi Publik,ISN61229,Pembangunan Kelembagaan,Ganjil 2024/2025,3,Biasa
+Administrasi Publik,ISN61240,Komunikasi Organisasi,Ganjil 2024/2025,3,Biasa
+Administrasi Publik,ISN61250,Administrasi Pemerintahan Desa & Nagari,Ganjil 2024/2025,3,Biasa
+Administrasi Publik,ISN61231,Perbandingan Ilmu Administrasi Negara,Ganjil 2024/2025,3,Biasa
+Administrasi Publik,ISN61119,Analisis Kebijakan Publik,Ganjil 2024/2025,3,Biasa
+Administrasi Publik,ISN61120,Reformasi Administrasi Dan Governance,Ganjil 2024/2025,3,Biasa
+Administrasi Publik,ISN61121,Metode Penelitian Administrasi  Kualitatif,Ganjil 2024/2025,3,Biasa
+Administrasi Publik,ISN61122,Metode Penelitian Administrasi  Kuantitatif,Ganjil 2024/2025,3,Biasa
+Administrasi Publik,ISN61126,Komunikasi Dan Advokasi Kebijakan,Ganjil 2024/2025,3,Biasa
+Administrasi Publik,ISN61112,Governansi Digital,Ganjil 2024/2025,3,Biasa
+Administrasi Publik,ISN61108,Etika Administrasi Publik,Ganjil 2024/2025,3,Biasa
+Administrasi Publik,ISN1243,Isu Dan Kebijakan Desentralisasi,Ganjil 2024/2025,3,Biasa
+Administrasi Publik,ISN61236,Manajemen Krisis,Ganjil 2024/2025,3,Biasa
+Administrasi Publik,ISN61237,Manajemen Konflik Dan Negosiasi,Ganjil 2024/2025,3,Biasa
+Administrasi Publik,ISN61248,Kebijakan Dan Manajemen Sistem Kesehatan,Ganjil 2024/2025,3,Biasa
+Administrasi Publik,ISN61248,Manajemen Bencana,Ganjil 2024/2025,3,Biasa
+Administrasi Publik,ISN61234,Manajemen Aset,Ganjil 2024/2025,3,Biasa
+Administrasi Publik,ISN61249,Analisis Mengenai Dampak Lingkungan Dan Sosial,Ganjil 2024/2025,3,Biasa
+Administrasi Publik,AND60102,Kewirausahaan,Ganjil 2024/2025,3,Biasa
+Antropologi Sosial,ISF61101,Dasar-Dasar Ilmu Sosial,Ganjil 2024/2025,3,Biasa
+Antropologi Sosial,ISF61102,Dasar-Dasar Ilmu Politik,Ganjil 2024/2025,3,Biasa
+Antropologi Sosial,ISF61103,Dasar-Dasar Logika,Ganjil 2024/2025,3,Biasa
+Antropologi Sosial,ISA61102,Antropologi Ragawi,Ganjil 2024/2025,3,Biasa
+Antropologi Sosial,ISF61104,Bahasa Inggris,Ganjil 2024/2025,3,Biasa
+Antropologi Sosial,ISA61101,Pengantar Antropologi,Ganjil 2024/2025,3,Biasa
+Antropologi Sosial,ISA61105,Antropologi Hukum,Ganjil 2024/2025,3,Biasa
+Antropologi Sosial,ISA61106,Organisasi Sosial  & Sistem Kekerabatan,Ganjil 2024/2025,3,Biasa
+Antropologi Sosial,ISA61107,Teori Antropologi Klasik,Ganjil 2024/2025,3,Biasa
+Antropologi Sosial,ISA61108,Kesukubangsaan Dan Multikulturalisme,Ganjil 2024/2025,3,Biasa
+Antropologi Sosial,ISA61109,Metode Penelitian Kualitatif 1,Ganjil 2024/2025,3,Biasa
+Antropologi Sosial,ISA61110,Antropologi Perkotaan,Ganjil 2024/2025,3,Biasa
+Antropologi Sosial,ISA61111,Antropologi Ekologi,Ganjil 2024/2025,3,Biasa
+Antropologi Sosial,ISA61112,Antropologi Psikologi,Ganjil 2024/2025,3,Biasa
+Antropologi Sosial,ISA61121,Antropologi Kesehatan,Ganjil 2024/2025,3,Biasa
+Antropologi Sosial,ISA61122,Antropologi Kebijakan,Ganjil 2024/2025,3,Biasa
+Antropologi Sosial,ISA61126,Membaca Dan Menulis Etnografi,Ganjil 2024/2025,3,Biasa
+Antropologi Sosial,ISA61124,Pemberdayaan Masyarakat,Ganjil 2024/2025,3,Biasa
+Antropologi Sosial,ISA61123,Antropologi Digital,Ganjil 2024/2025,3,Biasa
+Antropologi Sosial,ISA61125,Antropologi Pembangunan,Ganjil 2024/2025,3,Biasa
+Antropologi Sosial,AND60102,Kewirausahaan,Ganjil 2024/2025,3,Biasa
+Antropologi Sosial,ISA60217,Antropologi Pendidikan,Ganjil 2024/2025,3,Biasa
+Antropologi Sosial,ISA60201,Bahasa Inggris 2,Ganjil 2024/2025,3,Biasa
+Antropologi Sosial,ISA60209,Antropologi Maritim,Ganjil 2024/2025,3,Biasa
+Antropologi Sosial,ISA60215,Antropologi Pariwisata,Ganjil 2024/2025,3,Biasa
+Antropologi Sosial,ISA60204,Antropologi Visual,Ganjil 2024/2025,3,Biasa
+Antropologi Sosial,"ISA
+60210",Antropologi Seni,Ganjil 2024/2025,3,Biasa
+Antropologi Sosial,"ISA
+60214",Antropologi Dan Kuliner,Ganjil 2024/2025,3,Biasa
+Antropologi Sosial,"ISA
+60202",Antropologi Arsitektur,Ganjil 2024/2025,3,Biasa
+Antropologi Sosial,ISA60207,Masalah Sosial Dan Budaya,Ganjil 2024/2025,3,Biasa
+Antropologi Sosial,ISA60203,Identifikasi Dan Resolusi Konflik,Ganjil 2024/2025,3,Biasa
+Antropologi Sosial,ISA60216,"Budaya, Gender Dan Sexualitas",Ganjil 2024/2025,3,Biasa
+Antropologi Sosial,ISA60205,Pop Culture,Ganjil 2024/2025,3,Biasa
+Antropologi Sosial,"ISA
+60206",Corporate Culture,Ganjil 2024/2025,3,Biasa
+Antropologi Sosial,ISA60219,Kebudayaan Dan Kesehatan Reproduksi,Ganjil 2024/2025,3,Biasa
+Antropologi Sosial,ISA60218,Etnografi Mentawai,Ganjil 2024/2025,3,Biasa
+Antropologi Sosial,ISA60213,Etnografi Asia Tenggara,Ganjil 2024/2025,3,Biasa
+Antropologi Sosial,ISA60211,Etnografi Melayu,Ganjil 2024/2025,3,Biasa
+Antropologi Sosial,ISA60212,Etnografi Jawa,Ganjil 2024/2025,3,Biasa
+Biologi(1),BIO60288,Teknik Biologi Analisis Produk Halal,Ganjil 2024/2025,3,Biasa
+Biologi(1),BIO60289,Teknik Biologi Lapangan,Ganjil 2024/2025,3,Biasa
+Biologi(1),BIO60210,Ekologi Hutan,Ganjil 2024/2025,3,Biasa
+Biologi(1),BIO60214,Ekologi Vegetasi,Ganjil 2024/2025,3,Biasa
+Biologi(1),BIO60220,Teknik Hematologi Vertebrata,Ganjil 2024/2025,3,Biasa
+Biologi(1),BIO60222,Biologi Mikoriza,Ganjil 2024/2025,3,Biasa
+Biologi(1),BIO60224,Fisiologi Biji,Ganjil 2024/2025,3,Biasa
+Biologi(1),BIO60225,Fitohormon,Ganjil 2024/2025,3,Biasa
+Biologi(1),BIO60226,Fotobiologi Tumbuhan,Ganjil 2024/2025,3,Biasa
+Biologi(1),BIO60228,Metabolisme Tumbuhan,Ganjil 2024/2025,3,Biasa
+Biologi(1),BIO60229,Nutrisi Tumbuhan,Ganjil 2024/2025,3,Biasa
+Biologi(1),BIO60230,Genetika Molekuler,Ganjil 2024/2025,3,Biasa
+Biologi(1),BIO60232,Kelainan Genetik,Ganjil 2024/2025,3,Biasa
+Biologi(1),BIO60272,Biologi Forensik,Ganjil 2024/2025,3,Biasa
+Biologi(1),BIO60280,Pemetaan Dan Pemodelan Biodiversitas,Ganjil 2024/2025,3,Biasa
+Biologi(1),BIO60243,Mikroorganisme Ekstremofilik,Ganjil 2024/2025,3,Biasa
+Biologi(1),BIO60252,Biologi Serat,Ganjil 2024/2025,3,Biasa
+Biologi(1),BIO60253,Dendrokronologi,Ganjil 2024/2025,3,Biasa
+Biologi(1),BIO60257,Entomologi Terapan,Ganjil 2024/2025,3,Biasa
+Biologi(1),BIO60263,Protozoologi,Ganjil 2024/2025,3,Biasa
+Biologi(1),BIO60267,Manajemen Herbarium,Ganjil 2024/2025,3,Biasa
+Biologi(1),BIO60268,Morfologi Polen Dan Spora,Ganjil 2024/2025,3,Biasa
+Biologi(1),BIO60212,Ekologi Restorasi,Ganjil 2024/2025,3,Biasa
+Biologi(1),BIO60219,Patofisiologi Vertebrata,Ganjil 2024/2025,3,Biasa
+Biologi(1),BIO60271,Amdal,Ganjil 2024/2025,3,Biasa
+Biologi(1),BIO60274,Ekowisata,Ganjil 2024/2025,3,Biasa
+Biologi(1),BIO60288,Teknik Biologi Analisis Produk Halal,Ganjil 2024/2025,3,Biasa
+Biologi(1),BIO60240,Mikrobiologi Lingkungan,Ganjil 2024/2025,3,Biasa
+Biologi(1),BIO60249,Regulasi Perkembangan,Ganjil 2024/2025,3,Biasa
+Biologi(1),BIO60260,Mamalogi,Ganjil 2024/2025,3,Biasa
+Biologi(1),BIO60248,Kultur Sel Hewan,Ganjil 2024/2025,3,Biasa
+Biologi(1),BIO60206,Malakologi,Ganjil 2024/2025,3,Biasa
+D3 Perbankan Dan Keuangan,DAK51103,Pengantar Perpajakan,Ganjil 2024/2025,3,Biasa
+D3 Perbankan Dan Keuangan,VOK51101,Korespondensi Dan Tata Bahasa Inggris,Ganjil 2024/2025,1,Biasa
+D3 Perbankan Dan Keuangan,VOK51102,Praktikum Korespondensi Dan Tata Bahasa Inggris,Ganjil 2024/2025,1,Biasa
+D3 Perbankan Dan Keuangan,DAK51101,Pengantar Akuntansi,Ganjil 2024/2025,1,Biasa
+D3 Perbankan Dan Keuangan,DAK51102,Praktikum Pengantar Akuntansi,Ganjil 2024/2025,2,Biasa
+D3 Perbankan Dan Keuangan,DPK51102,Matematika Keuangan Dan Bisnis,Ganjil 2024/2025,1,Biasa
+D3 Perbankan Dan Keuangan,DPK51103,Praktikum Matematika Keuangan Dan Bisnis,Ganjil 2024/2025,2,Biasa
+D3 Perbankan Dan Keuangan,DPK51101,Pengantar Ilmu Ekonomi,Ganjil 2024/2025,3,Biasa
+D3 Perbankan Dan Keuangan,VOK51103,Teknologi Informasi Dan Komunikasi,Ganjil 2024/2025,3,Biasa
+D3 Perbankan Dan Keuangan,MWU50102,Pendidikan Kewarganegaraan,Ganjil 2024/2025,2,Biasa
+D3 Perbankan Dan Keuangan,MWU50103,Pancasila,Ganjil 2024/2025,2,Biasa
+D3 Perbankan Dan Keuangan,DMP51101,Pengantar Bisnis Dan Manajemen,Ganjil 2024/2025,3,Biasa
+D3 Perbankan Dan Keuangan,DPK51104,Hukum Bisnis Dan Perbankan,Ganjil 2024/2025,2,Biasa
+D3 Perbankan Dan Keuangan,DPK51105,Akuntansi Bank,Ganjil 2024/2025,3,Biasa
+D3 Perbankan Dan Keuangan,DPK51106,Lembaga Keuangan Dan Pasar Modal,Ganjil 2024/2025,2,Biasa
+D3 Perbankan Dan Keuangan,DPK51107,Operasional Bank,Ganjil 2024/2025,3,Biasa
+D3 Perbankan Dan Keuangan,DPK51109,Pengantar Manajemen Keuangan,Ganjil 2024/2025,3,Biasa
+D3 Perbankan Dan Keuangan,DPK51110,Manajemen Sumber Dana Bank,Ganjil 2024/2025,3,Biasa
+D3 Perbankan Dan Keuangan,DPK51111,Manajemen Kredit,Ganjil 2024/2025,3,Biasa
+D3 Perbankan Dan Keuangan,DPK51112,Pemasaran Produk Dan Jasa Perbankan,Ganjil 2024/2025,3,Biasa
+D3 Perbankan Dan Keuangan,DPK52116,Pasar Modal,Ganjil 2024/2025,2,Biasa
+D3 Perbankan Dan Keuangan,DPK52117,Tata Kelola Bank (Gcg Bank),Ganjil 2024/2025,3,Biasa
+D3 Perbankan Dan Keuangan,DPK52118,Jaringan Pelayanan Bank,Ganjil 2024/2025,3,Biasa
+D3 Perbankan Dan Keuangan,DPK52119,Komunikasi Bisnis Perbankan,Ganjil 2024/2025,2,Biasa
+D3 Perbankan Dan Keuangan,DPK52120,Manajemen Risiko Perbankan,Ganjil 2024/2025,3,Biasa
+D3 Perbankan Dan Keuangan,DPK52121,Manajemen Aset Perbankan,Ganjil 2024/2025,3,Biasa
+Ekonomi Islam,EKI61101,Pengantar Ekonomi,Ganjil 2024/2025,3,PjBL
+Ekonomi Islam,EKI61102,Ayat Dan Hadist Ekonomi,Ganjil 2024/2025,3,PjBL
+Ekonomi Islam,AKT61101,Pengantar Akuntansi,Ganjil 2024/2025,3,PjBL
+Ekonomi Islam,MNJ61101,Pengantar Bisnis,Ganjil 2024/2025,3,PjBL
+Ekonomi Islam,EKI61103,Bahasa Arab,Ganjil 2024/2025,3,PjBL
+Ekonomi Islam,EKI61104,Islamic Worldview,Ganjil 2024/2025,3,PjBL
+Ekonomi Islam,EKO61103,Matematika Ekonomi,Ganjil 2024/2025,3,PjBL
+Ekonomi Islam,AND61102,Kewirausahaan,Ganjil 2024/2025,3,PjBL
+Ekonomi Islam,EKI61106,Mikro Ekonomi Islam,Ganjil 2024/2025,3,PjBL
+Ekonomi Islam,EKI61107,Makro Ekonomi Islam,Ganjil 2024/2025,3,PjBL
+Ekonomi Islam,EKI61108,Ekonometrika Dasar,Ganjil 2024/2025,3,PjBL
+Ekonomi Islam,EKI61109,Fiqih Muamalah Dan Ekonomi,Ganjil 2024/2025,3,PjBL
+Ekonomi Islam,EKI61110,Prinsip Dasar Hukum Islam,Ganjil 2024/2025,3,PjBL
+Ekonomi Islam,EKI61111,Sejarah Pemikiran Ekonomi Islam Dan Perbandingan Sistem Ekonomi,Ganjil 2024/2025,3,PjBL
+Ekonomi Islam,EKI61112,Pengantar Keuangan Islam,Ganjil 2024/2025,3,PjBL
+Farmasi,FAF413,"Farmakoterapi Penyakit Gangguan Saraf, Kulit, Mata Dan Tht",Ganjil 2024/2025,2,Biasa
+Farmasi,FAF314,"Farmakoterapi Penyakit Saluran Cerna, Saluran Nafas, Sendi, Saluran Nafas, Sendi Dan Tulang Dan Kondisi Khusus",Ganjil 2024/2025,2,Biasa
+Farmasi,FAFP311,Praktikum Teknologi Sediaan Steril,Ganjil 2024/2025,1,Biasa
+Farmasi,PAF4002,Sintesis Obat,Ganjil 2024/2025,2,Biasa
+Farmasi,FAFP,"Praktikum Farmakoterapi Penyakit Gangguan Saraf, Kulit, Mata Dan Tht",Ganjil 2024/2025,1,Biasa
+Farmasi,FAFP,"Praktikum Farmakoterapi Penyakit Saluran Cerna, Saluran Nafas, Sendi, Saluran Nafas, Sendi Dan Tulang Dan Kondisi Khusus",Ganjil 2024/2025,1,Biasa
+Hubungan Internasional,SHI62101,Pengantar Ilmu Hubungan Internasional,Ganjil 2024/2025,3,Biasa
+Hubungan Internasional,SHI62102,Pemikiran Ekonomi Politik,Ganjil 2024/2025,3,Biasa
+Hubungan Internasional,ISF61101,Dasar-Dasar Ilmu Sosial,Ganjil 2024/2025,3,Biasa
+Hubungan Internasional,ISF61102,Dasar-Dasar Ilmu Politik,Ganjil 2024/2025,3,Biasa
+Hubungan Internasional,ISF61103,Dasar-Dasar Logika,Ganjil 2024/2025,3,Biasa
+Hubungan Internasional,ISF61104,Bahasa Inggris,Ganjil 2024/2025,3,Biasa
+Hubungan Internasional,ISF61108,Dasar-Dasar Penelitian Sosial,Ganjil 2024/2025,3,Biasa
+Hubungan Internasional,ISF61108,Fundamentals Of Social Research (Iup),Ganjil 2024/2025,3,Biasa
+Hubungan Internasional,SHI61109,Organisasi Internasional,Ganjil 2024/2025,3,Biasa
+Hubungan Internasional,SHI61109,International Organization (Iup),Ganjil 2024/2025,3,Biasa
+Hubungan Internasional,SHI61106,Teori Hubungan Internasional 1,Ganjil 2024/2025,3,Biasa
+Hubungan Internasional,SHI61106,Theory Of International Relations 1 (Iup),Ganjil 2024/2025,3,Biasa
+Hubungan Internasional,SHI61212,Bahasa Arab,Ganjil 2024/2025,3,Biasa
+Hubungan Internasional,SHI61212,Bahasa Bahasa Jepang,Ganjil 2024/2025,3,Biasa
+Hubungan Internasional,SHI61107,Ekonomi Politik  Global,Ganjil 2024/2025,3,Biasa
+Hubungan Internasional,SHI61107,Global Political Economy (Iup),Ganjil 2024/2025,3,Biasa
+Hubungan Internasional,SHI61108,Politik Internasional,Ganjil 2024/2025,3,Biasa
+Hubungan Internasional,SHI61108,International Politics,Ganjil 2024/2025,3,Biasa
+Hubungan Internasional,SHI61132,Teori Politik Luar Negeri,Ganjil 2024/2025,3,Biasa
+Hubungan Internasional,SHI61132,Theory Of Foreign Policy (Iup),Ganjil 2024/2025,3,Biasa
+Hubungan Internasional,SHI61214,Kajian Lintas Budaya,Ganjil 2024/2025,3,Biasa
+Hubungan Internasional,SHI61210,Bahasa Perancis,Ganjil 2024/2025,3,Biasa
+Hubungan Internasional,SHI61127,Manajemen Dan Resolusi Konflik,Ganjil 2024/2025,3,Biasa
+Hubungan Internasional,SHI61128,Kajian Strategi Dan Keamanan,Ganjil 2024/2025,3,Biasa
+Hubungan Internasional,SHI61129,Metodologi Penelitian Hub. Internasional,Ganjil 2024/2025,3,Biasa
+Hubungan Internasional,SHI61131,Rezim Internasional,Ganjil 2024/2025,3,Biasa
+Hubungan Internasional,SHI61130,Penyusunan Kerangka Kerjasama Internasional (B),Ganjil 2024/2025,3,Biasa
+Hubungan Internasional,SHI61232,Hi Kawasan Timur Tengah,Ganjil 2024/2025,3,Biasa
+Hubungan Internasional,SHI61233,Hi Kawasan Amerika Latin,Ganjil 2024/2025,3,Biasa
+Hubungan Internasional,SHI61234,Hi Kawasan Asia Selatan,Ganjil 2024/2025,3,Biasa
+Hubungan Internasional,SHI61235,Hi Kawasan Asia Timur,Ganjil 2024/2025,3,Biasa
+Hubungan Internasional,SHI61236,Desain Multimedia,Ganjil 2024/2025,3,Biasa
+Hubungan Internasional,SHI61237,Filsafat Adat Alam Minangkabau,Ganjil 2024/2025,3,Biasa
+Hubungan Internasional,SHI61238,Komunikasi Politik Global,Ganjil 2024/2025,3,Biasa
+Hubungan Internasional,SHI61239,Masyarakat Sipil Global,Ganjil 2024/2025,3,Biasa
+Hukum,HKF101,Pengantar Ilmu Hukum,Ganjil 2024/2025,3,Biasa
+Hukum,HKF102,Pengantar Hukum Indonesia,Ganjil 2024/2025,3,Biasa
+Hukum,HKF103,Ilmu Negara,Ganjil 2024/2025,3,Biasa
+Hukum,AND113,Pendidikan Kewarganegaraan,Ganjil 2024/2025,2,Biasa
+Hukum,AND112,Pendidikan Agama,Ganjil 2024/2025,3,Biasa
+Hukum,AND114,Bahasa Indonesia,Ganjil 2024/2025,2,Biasa
+Hukum,HKF107,Bahasa Inggris,Ganjil 2024/2025,2,Biasa
+Hukum,HKP102,Hukum Islam,Ganjil 2024/2025,2,Biasa
+Hukum,AND111,Pancasila,Ganjil 2024/2025,2,Biasa
+Hukum,HKA201,Hukum Administrasi Negara,Ganjil 2024/2025,3,Biasa
+Hukum,HKN201,Hukum Pidana,Ganjil 2024/2025,3,Biasa
+Hukum,HKN202,Kriminologi,Ganjil 2024/2025,2,Biasa
+Hukum,HKP201,Hukum Perdata,Ganjil 2024/2025,3,Biasa
+Hukum,HKI201,Hukum Internasional,Ganjil 2024/2025,3,Biasa
+Hukum,HKP206,Hukum Dagang,Ganjil 2024/2025,2,Biasa
+Hukum,HKT201,Hukum Tata Negara,Ganjil 2024/2025,3,Biasa
+Hukum,HKT202,Hukum Dan Hak Asasi Manusia,Ganjil 2024/2025,2,Biasa
+Hukum,HKA302,Hukum Agraria,Ganjil 2024/2025,2,Biasa
+Hukum,HKA303,Hukum Ketenagakerjaan,Ganjil 2024/2025,2,Biasa
+Hukum,HKI302,Hukum Laut,Ganjil 2024/2025,2,Biasa
+Hukum,HKN303,Hukum Acara Pidana,Ganjil 2024/2025,3,Biasa
+Hukum,HKN304,Hukum Penitensir,Ganjil 2024/2025,2,Biasa
+Hukum,HKP304,Hukum Acara Perdata,Ganjil 2024/2025,3,Biasa
+Hukum,HKP305,Hukum Perjanjian,Ganjil 2024/2025,2,Biasa
+Hukum,HKP310,Hukum Perusahaan,Ganjil 2024/2025,2,Biasa
+Hukum,HKT303,Ilmu Perundang Undangan,Ganjil 2024/2025,2,Biasa
+Hukum,HKI304,Hukum Perdata Internasional,Ganjil 2024/2025,2,Biasa
+Hukum,HKP301,Hukum Adat,Ganjil 2024/2025,2,Biasa
+Hukum,HKA404,Hukum Lingkungan,Ganjil 2024/2025,2,Biasa
+Hukum,HKA405,Hukum Pemerintahan Daerah,Ganjil 2024/2025,2,Biasa
+Hukum,HKA406,Hukum Acara Ptun,Ganjil 2024/2025,2,Biasa
+Hukum,HKI402,Hukum Pidana Khusus,Ganjil 2024/2025,2,Biasa
+Hukum,HKI403,Hukum Hak Kekayaan Intelektual,Ganjil 2024/2025,2,Biasa
+Hukum,HKN405,Delik-Delik Dalam Kuhp,Ganjil 2024/2025,2,Biasa
+Hukum,HKP407,Hukum Acara Peradilan Agama,Ganjil 2024/2025,2,Biasa
+Hukum,HKP408,Hukum Perancangan Kontrak,Ganjil 2024/2025,2,Biasa
+Hukum,MKP409,Hukum Perbankan,Ganjil 2024/2025,2,Biasa
+Hukum,HKI405,Hukum Ekonomi Internasional,Ganjil 2024/2025,2,Biasa
+Hukum,HKT404,Hukum Acara Mahkamah Konstitusi,Ganjil 2024/2025,2,Biasa
+Hukum,HKA507,Praktik Peradilan Tun,Ganjil 2024/2025,3,Biasa
+Hukum,HKA508,Hukum Pajak,Ganjil 2024/2025,2,Biasa
+Hukum,HKF508,Metode Penelitian Dan Penulisan Hukum,Ganjil 2024/2025,2,Biasa
+Hukum,HKN507,Praktik Peradilan Pidana,Ganjil 2024/2025,2,Biasa
+Hukum,HKT507,Perancangan Perundangan- Undangan,Ganjil 2024/2025,2,Biasa
+Hukum,HKP512,Praktik Peradilan Perdata,Ganjil 2024/2025,2,Biasa
+Hukum,HKT505,Politik Hukum,Ganjil 2024/2025,2,Biasa
+Hukum,HKT506,Pratik Peradilan Mahkamah Konstitusi,Ganjil 2024/2025,2,Biasa
+Hukum,HKF511,Filsafat Hukum,Ganjil 2024/2025,2,Biasa
+Hukum,HKP511,Hukum Adat Minangkabau,Ganjil 2024/2025,2,Biasa
+Hukum,HKF,Etika Profesi Hukum,Ganjil 2024/2025,2,Biasa
+Hukum,HKF710,Kkn,Ganjil 2024/2025,2,Biasa
+Hukum,HKF813,Tugas Akhir,Ganjil 2024/2025,4,Biasa
+Ilmu Biomedis,MWU60104,Bahasa Indonesia,Ganjil 2024/2025,2,Biasa
+Ilmu Biomedis,BIM1023,Bioetik Akademik Dan Penelitian Biomedis,Ganjil 2024/2025,2,Biasa
+Ilmu Biomedis,BIM1062,Biologi Sel,Ganjil 2024/2025,3,Biasa
+Ilmu Biomedis,BIM1022,Dasar Management,Ganjil 2024/2025,1,Biasa
+Ilmu Biomedis,BIM1042,Fisika Medis,Ganjil 2024/2025,3,Biasa
+Ilmu Biomedis,BIM1052,Kimia Medis,Ganjil 2024/2025,3,Biasa
+Ilmu Biomedis,BIM1013,Lab Biosafety Dan Keselamatan Kerja Laboratorium,Ganjil 2024/2025,2,Biasa
+Ilmu Biomedis,BIM1032,Matematika,Ganjil 2024/2025,2,Biasa
+Ilmu Biomedis,BIM1011,Pendidikan Agama,Ganjil 2024/2025,2,Biasa
+Ilmu Biomedis,BIM1012,Pengenalan Ilmu Biomedis,Ganjil 2024/2025,1,Biasa
+Ilmu Biomedis,BIM3132,Biokimia 2,Ganjil 2024/2025,3,Biasa
+Ilmu Biomedis,BIM4182,Biologi Molekuler Dan Seluler Ii,Ganjil 2024/2025,3,Biasa
+Ilmu Biomedis,BIM3033,Bisnis Dan Industri Biomedis,Ganjil 2024/2025,2,Biasa
+Ilmu Biomedis,BIM3162,Dasar Patologi Anatomi,Ganjil 2024/2025,2,Biasa
+Ilmu Biomedis,BIM3142,Fisiologi Manusia,Ganjil 2024/2025,2,Biasa
+Ilmu Biomedis,BIM3014,Interaksi Kimia Dan Molekuler Obat,Ganjil 2024/2025,2,Biasa
+Ilmu Biomedis,BIM2072,Natural Produk Dan Kimia Obat,Ganjil 2024/2025,2,Biasa
+Ilmu Biomedis,BIM3024,Toksikologi,Ganjil 2024/2025,2,Biasa
+Ilmu Biomedis,BIM5064,Analisis Imuno Dan Molekuler Parasit,Ganjil 2024/2025,3,Biasa
+Ilmu Biomedis,BIM4192,Biostatistik,Ganjil 2024/2025,3,Biasa
+Ilmu Biomedis,BIM5094,Bioteknologi Medis,Ganjil 2024/2025,2,Biasa
+Ilmu Biomedis,BIM5061,Dasar Komunikasi,Ganjil 2024/2025,1,Biasa
+Ilmu Biomedis,BIM6063,Hematologi,Ganjil 2024/2025,2,Biasa
+Ilmu Biomedis,BIM9016,Kanker: Patologi Dan Molekuler (Molekuler Onkologi),Ganjil 2024/2025,1,Biasa
+Ilmu Biomedis,KEWIRAUSAHAAN,Kewirausahaan,Ganjil 2024/2025,3,Biasa
+Ilmu Biomedis,AND5036,Kewirausahaan,Ganjil 2024/2025,3,Biasa
+Ilmu Biomedis,BIM5242,Mikrobiologi Lanjut,Ganjil 2024/2025,3,Biasa
+Ilmu Biomedis,BIM9066,Teknik Kultur Sel Dan Sel Punca,Ganjil 2024/2025,2,Biasa
+Ilmu Biomedis,BIM5202,Teknik Penulisan Ilmiah,Ganjil 2024/2025,2,Biasa
+Ilmu Biomedis,BIM9126,Animal Wellfare,Ganjil 2024/2025,2,Biasa
+Ilmu Biomedis,BIM6084,Biologi Kanker,Ganjil 2024/2025,2,Biasa
+Ilmu Biomedis,BIM9096,Dasar Lab. Forensik : From Evidance To Csi,Ganjil 2024/2025,1,Biasa
+Ilmu Biomedis,BIM6073,Dasar Laboratorium Patologi Dan Laboratorium Penyakit Degeneratif /Ncd,Ganjil 2024/2025,3,Biasa
+Ilmu Biomedis,BIM7045,Kuliah Kerja Nyata ( Kkn ),Ganjil 2024/2025,4,Biasa
+Ilmu Komunikasi,MWU60102,Pancasila,Ganjil 2024/2025,2,Biasa
+Ilmu Komunikasi,MWU60103,Kewarganegaraan,Ganjil 2024/2025,2,Biasa
+Ilmu Komunikasi,ISF61101,Dasar-Dasar Ilmu Sosial,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISF61102,Dasar-Dasar Ilmu Politik,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISF61103,Dasar-Dasar Logika,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISF61104,Bahasa Inggris/ English For Communication,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISK61105,Pengantar Ilmu Komunikasi/ Introduction To Communication,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISK61106,Fotografi/Photography,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISF61108,Dasar-Dasar Penelitian Sosial,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISK61107,Komunikasi Antar Pribadi / Interpersonal Communication,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISK61108,Komunikasi Antar Budaya/ Intercultural Communication,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISK61109,Komunikasi Organisasi/Organizational Communication,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISK61110,Psikologi Komunikasi/Psychology Of Communication,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISK61111,Teknik Penulisan Humas Dan Publisitas/Pr Writing And Publicity,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISK61112,Hubungan-Hubungan Media /Media Relations,Ganjil 2024/2025,2,Biasa
+Ilmu Komunikasi,ISK61113,Humas Daring/Online Pr,Ganjil 2024/2025,2,Biasa
+Ilmu Komunikasi,ISK61114,Isu Humas Dan Penanganan /Pr Issues And Crisis Handlingkrisis,Ganjil 2024/2025,2,Biasa
+Ilmu Komunikasi,ISK61115,Desain Grafis Dan Website/Graphic & Web Design,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISK61116,Hukum Media/Media Law,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISK61117,Penulisan Berita/News Writing,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISK61118,Komunikasi Persuasif/Persuasive Communication,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISK61119,Komunikasi Dan Isu-Isu Kontemporer/Communication And Contemporary Issues,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISK61120,Komunikasi Digital/Digital Communication,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISK61121,Hukum Media/Media Law,Ganjil 2024/2025,2,Biasa
+Ilmu Komunikasi,ISK61122,Produksi Multimedia/Multimedia Production,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISK61123,Penulisan Kreatif 1 /Creative Writing 1,Ganjil 2024/2025,2,Biasa
+Ilmu Komunikasi,ISK61124,Teknik Presenter Broadcasting/Techniques Of Professional Presenter For Broadcasting,Ganjil 2024/2025,2,Biasa
+Ilmu Komunikasi,AND60102,Kewirausahaan,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISK61136,Komunikasi Internasional,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISK61137,Filsafat Komunikasi,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISK61138,Statistik Sosial,Ganjil 2024/2025,2,Biasa
+Ilmu Komunikasi,ISK61139,Metode Penelitian Komunikasi Kualitatif,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISK61140,Humas Pemerintahan,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISK61141,Humas Korporasi,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISK61142,Jurnalistik Sastrawi,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISK61143,Industri Dan Bisnis Media,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISK6114,Manajemen Komunikasi Konflik,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISK61145,Manajemen Konsultasi Untuk Professional,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISK61146,Kajian Iklan,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISK61147,Kajian Televisi Dan Film,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISK61201,Analisis Big Data,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISK61202,Analisis Media Sosial,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISK61203,Bisnis Media Dan Komunikasi,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISK61204,Gender Dan Komunikasi,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISK61206,Komunikasi Kepemimpinan,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISK61207,Komunikasi Massa,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISK61208,Komunikasi Pariwisata,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISK61209,Media Dan Budaya Populer,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISK61210,Manajemen Kampanye Politik,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISK61211,Penulisan Kreatif 2,Ganjil 2024/2025,2,Biasa
+Ilmu Komunikasi,ISK61212,Perencanaan Komunikasi,Ganjil 2024/2025,3,Biasa
+Ilmu Komunikasi,ISK61213,Studi Kelayakan Media,Ganjil 2024/2025,3,Biasa
+Ilmu Politik,MWU60102,Pendidikan Pancasila/Pancasila Education,Ganjil 2024/2025,2,Biasa
+Ilmu Politik,MWU60103,Kewarganegaraan,Ganjil 2024/2025,2,Biasa
+Ilmu Politik,ISF61101,Dasar-Dasar Ilmu Sosial,Ganjil 2024/2025,3,Biasa
+Ilmu Politik,ISF61102,Dasar-Dasar Ilmu Politik,Ganjil 2024/2025,3,Biasa
+Ilmu Politik,ISF61103,Dasar-Dasar Logika,Ganjil 2024/2025,3,Biasa
+Ilmu Politik,ISF61104,Bahasa Inggris,Ganjil 2024/2025,3,Biasa
+Ilmu Politik,ISP61101,Sistem Politik Indonesia,Ganjil 2024/2025,3,Biasa
+Ilmu Politik,ISP61102,Pengantar Kebijakan Publik / Introduction To Public Policy,Ganjil 2024/2025,3,Biasa
+Ilmu Politik,ISF61108,Dasar-Dasar Penelitian Sosial,Ganjil 2024/2025,3,Biasa
+Ilmu Politik,ISP61107,Teori Politik / Political Theory,Ganjil 2024/2025,3,Biasa
+Ilmu Politik,ISP61108,Pembangunan Politik / Political Development,Ganjil 2024/2025,3,Biasa
+Ilmu Politik,ISP61109,Metodologi Ilmu Politik / Political Science Methodology,Ganjil 2024/2025,3,Biasa
+Ilmu Politik,ISP61110,Ekonomi Politik / Political Economy,Ganjil 2024/2025,3,Biasa
+Ilmu Politik,ISP61111,Sosiologi Politik / Political Sociology,Ganjil 2024/2025,3,Biasa
+Ilmu Politik,ISP61112,Partai Politik Dan Pemilu Indonesia / Indonesian Political Parties And Elections,Ganjil 2024/2025,3,Biasa
+Ilmu Politik,ISP61113,Integritas Dan Anti Korupsi,Ganjil 2024/2025,3,Biasa
+Ilmu Politik,ISP61121,Demokrasi Dan Demokratisasi / Democracy And Democratization,Ganjil 2024/2025,3,Biasa
+Ilmu Politik,ISP61122,Good Governance Dan Clean Government,Ganjil 2024/2025,3,Biasa
+Ilmu Politik,ISP61123,Kekuatan Politik Indonesia / Indonesian Political Power,Ganjil 2024/2025,3,Biasa
+Ilmu Politik,ISP61124,Politik Desentralisasi / The Politics Of Decentralization,Ganjil 2024/2025,3,Biasa
+Ilmu Politik,ISP61125,Seminar Isu-Isu Politik / Seminar On Political Issues,Ganjil 2024/2025,3,Biasa
+Ilmu Politik,ISP61126,Teori Gerakan Sosial / Social Movement Theory,Ganjil 2024/2025,3,Biasa
+Ilmu Politik,ISP61127,Analisis Kebijakan Publik / Public Policy Analysis,Ganjil 2024/2025,3,Biasa
+Ilmu Politik,ISP61201,Pembangunan Partisipatif / Participatory Development,Ganjil 2024/2025,6,Biasa
+Ilmu Politik,ISP61202,Tata Kelola Pemilu / Election Governance,Ganjil 2024/2025,3,Biasa
+Ilmu Politik,ISP61203,E-Government,Ganjil 2024/2025,3,Biasa
+Ilmu Politik,ISP61204,Pemilu Dan Perilaku Memilih / Election And Voting Behavior,Ganjil 2024/2025,3,Biasa
+Ilmu Politik,ISP61205,Politik Kawasan / Regional Politics,Ganjil 2024/2025,3,Biasa
+Ilmu Politik,ISP61206,Public Speaking,Ganjil 2024/2025,3,Biasa
+Ilmu Tanah,AND60101,Kuliah Kerja Nyata ( Kkn),Ganjil 2024/2025,4,nan
+Kebidanan,BDN104,Agama,Ganjil 2024/2025,2,Biasa
+Kebidanan,BDN102,Biomedik 1,Ganjil 2024/2025,5,Biasa
+Kebidanan,BDN103,Biomedik 2,Ganjil 2024/2025,5,Biasa
+Kebidanan,BDN106,Keterampilan Kebidanan Dasar 1,Ganjil 2024/2025,3,Biasa
+Kebidanan,BDN105,Kewarganegaraan,Ganjil 2024/2025,2,Biasa
+Kebidanan,BDN107,Pancasila,Ganjil 2024/2025,2,Biasa
+Kebidanan,BDN101,Pengantar Pendidikan Kebidanan,Ganjil 2024/2025,5,Biasa
+Kebidanan,BDN301,Asuhan Kebidanan Pada Kehamilan,Ganjil 2024/2025,5,Biasa
+Kebidanan,BDN303,Asuhan Kebidanan Pada Masa Nifas,Ganjil 2024/2025,5,Biasa
+Kebidanan,BDN302,Asuhan Kebidanan Pada Persalinan,Ganjil 2024/2025,5,Biasa
+Kebidanan,MKK113,Elektif (Manajemen Bencana),Ganjil 2024/2025,2,Biasa
+Kebidanan,BDN305,Elektif (Manajemen Bencana),Ganjil 2024/2025,2,Biasa
+Kebidanan,BDN306,Fome I,Ganjil 2024/2025,2,Biasa
+Kebidanan,BDN304,Keterampilan Kebidanan Dasar 3,Ganjil 2024/2025,4,Biasa
+Kebidanan,BDN505,Elektif (Kewirausahaan Dalam Kebidanan),Ganjil 2024/2025,2,Biasa
+Kebidanan,BDN506,Elektif (Obat Tradisional),Ganjil 2024/2025,2,Biasa
+Kebidanan,BDN501,"Etika, Hukum, Politik Dan Kebijakan Dalam Kebidanan",Ganjil 2024/2025,5,Biasa
+Kebidanan,BDN502,Kebidanan Komunitas,Ganjil 2024/2025,5,Biasa
+Kebidanan,BDN503,Keluarga Berencana,Ganjil 2024/2025,5,Biasa
+Kebidanan,BDN504,Keterampilan Klinik 5,Ganjil 2024/2025,3,Biasa
+Kebidanan,BDN507,Proposal Penelitian,Ganjil 2024/2025,2,Biasa
+Kebidanan,BDN714,Continiuty Of Care I(Coc I),Ganjil 2024/2025,2,Biasa
+Kebidanan,BDN713,Elektif (Btcls),Ganjil 2024/2025,2,Biasa
+Kebidanan,BDN704,Keterampilan Kebidanan Lanjutan 2,Ganjil 2024/2025,3,Biasa
+Kebidanan,BDN701,Metodelogi Penelitian Dan Statistik,Ganjil 2024/2025,2,Biasa
+Kebidanan,BDN710,"Pra Profesi Bbl,Neonatus Dan Balita",Ganjil 2024/2025,2,Biasa
+Kebidanan,BDN711,Pra Profesi Kebidanan Komunitas,Ganjil 2024/2025,1,Biasa
+Kebidanan,BDN706,Pra Profesi Kehamilan,Ganjil 2024/2025,2,Biasa
+Kebidanan,BDN709,Pra Profesi Keluarga Berencana,Ganjil 2024/2025,2,Biasa
+Kebidanan,BDN708,Pra Profesi Nifas,Ganjil 2024/2025,2,Biasa
+Kebidanan,BDN707,Pra Profesi Persalinan,Ganjil 2024/2025,2,Biasa
+Kebidanan,BDN705,"Pra Profesi Remaja, Prakonsepsi, Dan Perimenopause",Ganjil 2024/2025,1,Biasa
+Kebidanan,BDN712,Praktik Observasi Lapangan,Ganjil 2024/2025,2,Biasa
+Kebidanan,BDN702,Proposal Penelitian,Ganjil 2024/2025,2,Biasa
+Kebidanan,BDN703,Skripsi,Ganjil 2024/2025,3,Biasa
+Kedokteran,MWU60101,Agama,Ganjil 2024/2025,2,Biasa
+Kedokteran,BLK19101,Biomedik,Ganjil 2024/2025,5,Biasa
+Kedokteran,BLK19105,Fome Dan Ipe 1,Ganjil 2024/2025,1,Biasa
+Kedokteran,BLK19103,Hormon Dan Persyarafan,Ganjil 2024/2025,6,Biasa
+Kedokteran,BLK19104,Keterampilan Klinik 1,Ganjil 2024/2025,1,Biasa
+Kedokteran,BLK19505,Metodologi Penelitian 2,Ganjil 2024/2025,1,Biasa
+Kedokteran,MWU60102,Pancasila,Ganjil 2024/2025,2,Biasa
+Kedokteran,BLK19203,Patologi Dasar,Ganjil 2024/2025,6,Biasa
+Kedokteran,BLK19106,Profesionalisme Dokter,Ganjil 2024/2025,2,Biasa
+Kedokteran,BLK19102,Sirkulasi Dan Respirasi,Ganjil 2024/2025,6,Biasa
+Kedokteran,BLK19306,Bahasa Inggris,Ganjil 2024/2025,2,Biasa
+Kedokteran,BLK19305,Fome Dan Ipe 3,Ganjil 2024/2025,1,Biasa
+Kedokteran,BLK19301,Gangguan Hematologi Dan Imunologi,Ganjil 2024/2025,5,Biasa
+Kedokteran,BLK19303,Gangguan Kardiovaskuler,Ganjil 2024/2025,5,Biasa
+Kedokteran,BLK19302,Gangguan Respirasi,Ganjil 2024/2025,5,Biasa
+Kedokteran,BLK19304,Keterampilan Klinik 3,Ganjil 2024/2025,2,Biasa
+Kedokteran,BLK19503,Gangguan Dermatomuskuloskeletal,Ganjil 2024/2025,5,Biasa
+Kedokteran,BLK19502,Gangguan Indra Khusus,Ganjil 2024/2025,5,Biasa
+Kedokteran,BLK19501,Gangguan Urogenital,Ganjil 2024/2025,5,Biasa
+Kedokteran,BLK19504,Keterampilan Klinik 5,Ganjil 2024/2025,2,Biasa
+Kedokteran,BLK19605,Kewirausahaan,Ganjil 2024/2025,2,Biasa
+Kedokteran,BLK19703,Elektif,Ganjil 2024/2025,5,Biasa
+Kedokteran,BLK19701,"Gangguan Neonatus, Anak , Remaja Dan Lansia",Ganjil 2024/2025,5,Biasa
+Kedokteran,BLK19702,Kegawat Daruratan,Ganjil 2024/2025,5,Biasa
+Kedokteran,BLK19704,Keterampilan Klinik 7,Ganjil 2024/2025,2,Biasa
+Kedokteran,BLK19705,Pre Clerckship,Ganjil 2024/2025,4,Biasa
+Kewirausahaan,MWU60102,Pancasila,Ganjil 2024/2025,3,Biasa
+Kewirausahaan,KWU61101,Analisis Lingkungan Berwirausaha (Entrepreneurial Environmental Scanning),Ganjil 2024/2025,3,Biasa
+Kewirausahaan,KWU61102,Akuntansi Untuk Berwirausaha (Accounting For Entrepreneurs),Ganjil 2024/2025,3,Biasa
+Kewirausahaan,MWU60103,Kewarganegaraan,Ganjil 2024/2025,3,Biasa
+Kewirausahaan,AND60102,Kewirausahaan,Ganjil 2024/2025,3,Biasa
+Kewirausahaan,MNJ61101,Pengantar Bisnis (Introduction To Business),Ganjil 2024/2025,3,Biasa
+Kewirausahaan,KWU61201,Kepribadian Dalam Berwirausaha (Entrepreneurial Personality),Ganjil 2024/2025,3,Biasa
+Kewirausahaan,KWU61202,Budaya Dan Kewirausahaan (Culture And Entrepreneurship),Ganjil 2024/2025,3,Biasa
+Kewirausahaan,KWU61106,Ide Usaha Baru (New Venture Ideas),Ganjil 2024/2025,3,Biasa
+Kewirausahaan,KWU61107,Manajemen Teknologi Inovasi (Technological Innovation Management),Ganjil 2024/2025,3,Biasa
+Kewirausahaan,KWU61108,Strategi Bisnis Berwirausaha (Entrepreneurial Business Strategy),Ganjil 2024/2025,3,Biasa
+Kewirausahaan,KWU61109,Pemodelan Bisnis Berwirausaha (Entrepreneurial Business Modeling),Ganjil 2024/2025,3,Biasa
+Kewirausahaan,KWU61110,Keuangan Bagi Wirausahawan (Finance For Entrepreneurs),Ganjil 2024/2025,3,Biasa
+Kewirausahaan,KWU61111,"Pengembangan Tim, Negosiasi Dan Presentasi Bisnis (Team Building, Business Negotiation And Presentation)",Ganjil 2024/2025,3,Biasa
+Kewirausahaan,KWU611123,Jejaring Bisnis (Business Network),Ganjil 2024/2025,3,Biasa
+Kewirausahaan,KWU61113,Teknologi Dan Digitalisasi Bagi Wirausahawan (Technology And Digitalization For Entrepreneurs),Ganjil 2024/2025,3,Biasa
+Manajemen Pemasaran,DMP51101,Pengantar Bisnis Dan Manajemen,Ganjil 2024/2025,3,CBM
+Manajemen Pemasaran,DMP521104,Komunikasi Pemasaran Terpadu,Ganjil 2024/2025,2,CBM
+Manajemen Pemasaran,DMP51109,Manajemen Hubungan Pelanggan,Ganjil 2024/2025,2,CBM
+Manajemen Pemasaran,DMP51106,Pemasaran Jasa,Ganjil 2024/2025,3,CBM
+Manajemen Pemasaran,EDA314,Praktikum Distribusi Dan Logistik,Ganjil 2024/2025,2,CBM
+Manajemen Pemasaran,EDU301,Kewirausahaan,Ganjil 2024/2025,3,PjBL
+Manajemen Pemasaran,DMP51203,Praktikum Email Marketing,Ganjil 2024/2025,2,PjBL
+Manajemen Pemasaran,EDP310,Praktikum Pemasaran Langsung,Ganjil 2024/2025,2,PjBL
+Matematika,MAT61105,Fisika Dasar,Ganjil 2024/2025,2,Biasa
+Peternakan,PTK60202,Bioteknologi Ternak,Ganjil 2024/2025,3,CBM
+Peternakan,PTK60242,Pemasaran Hasil Ternak,Ganjil 2024/2025,2,CBM
+Peternakan,PTK60229,Evaluasi Sensori Pangan Hasil Ternak,Ganjil 2024/2025,2,PjBL
+Peternakan,PTK60230,Ilmu Dan Teknologi Telur,Ganjil 2024/2025,3,PjBL
+Peternakan,PTK60218,Toksikologi Pakan,Ganjil 2024/2025,3,CBM
+Peternakan,PTK61126,Ilmu Teknologi Penanganan & Pengolahan Pakan,Ganjil 2024/2025,3,CBM
+Peternakan,PTK61102,Matematika,Ganjil 2024/2025,2,Biasa
+Peternakan,PTK61107,Fisiologi Ternak,Ganjil 2024/2025,3,Biasa
+Peternakan,PTK61108,Pengantar Ilmu Dan Industri Peternakan,Ganjil 2024/2025,2,Biasa
+Peternakan,PTK61110,Genetika,Ganjil 2024/2025,3,Biasa
+Peternakan,PTK61121,Landasan Ilmu Nutrisi Ternak,Ganjil 2024/2025,2,CBM
+Peternakan,PTK61132,Dasar-Dasar Manajemen,Ganjil 2024/2025,2,CBM
+Peternakan,PTK60205,Manajemen Produksi Ternak Perah,Ganjil 2024/2025,2,CBM
+Peternakan,PTK60211,Ilmu Tilik  Dan Tingkah Laku Ternak,Ganjil 2024/2025,3,CBM
+Peternakan,PTK60213,Ilmu Unggas Air,Ganjil 2024/2025,2,PjBL
+Peternakan,PTK60215,Manajemen Pastura,Ganjil 2024/2025,3,PjBL
+Peternakan,PTK60216,Ilmu Nutrisi Ternak Perah,Ganjil 2024/2025,3,PjBL
+Peternakan,PTK60224,Nutrisi Ternak Kambing Dan Domba,Ganjil 2024/2025,3,PjBL
+Peternakan,PTK62227,Pangan & Gizi Hasil Ternak,Ganjil 2024/2025,3,PjBL
+Peternakan,PTK60233,Sanitasi Dan Higiene Hasil Ternak,Ganjil 2024/2025,2,CBM
+Peternakan,PTK60236,Manajemen Agribisnis,Ganjil 2024/2025,2,CBM
+Peternakan,PTK60238,Sistem Pertanian Terpadu,Ganjil 2024/2025,3,CBM
+Peternakan,PTK60243,Statistik Non Parametrik,Ganjil 2024/2025,2,CBM
+Peternakan,PTK60245,Manajemen Strategik,Ganjil 2024/2025,3,PjBL
+Peternakan,PTK62117,Ilmu Reproduksi Ternak,Ganjil 2024/2025,3,PjBL
+Peternakan,PTK60231,Ilmu Dan Teknologi Susu,Ganjil 2024/2025,2,PjBL
+Peternakan,PTK60235,Penanganan & Pengemasan Hsl Ternak,Ganjil 2024/2025,3,PjBL
+Peternakan,PTK61125,Agrostologi,Ganjil 2024/2025,2,CBM
+Peternakan,PTK60206,Manajemen Ternak Kambing Dan Domba,Ganjil 2024/2025,2,PjBL
+Peternakan,PTK60207,Manajemen Produksi Ternak Unggas,Ganjil 2024/2025,2,PjBL
+Peternakan,PTK60210,Manajemen Lingkungan Ternak,Ganjil 2024/2025,3,PjBL
+Peternakan,PTK60214,Ilmu Dan Teknologi Produksi Satwa Harapan,Ganjil 2024/2025,3,PjBL
+Peternakan,PTK60219,Ilmu Nutrisi Non-Ruminansia,Ganjil 2024/2025,3,PjBL
+Peternakan,PTK60220,Manajemen Industri Pakan,Ganjil 2024/2025,2,PjBL
+Peternakan,PTK60221,Bioteknologi Pakan,Ganjil 2024/2025,3,PjBL
+Peternakan,PTK60223,Ilmu Nutrisi Aneka Ternak Unggas,Ganjil 2024/2025,3,PjBL
+Peternakan,PTK60226,Pakan Fungsional,Ganjil 2024/2025,2,PjBL
+Peternakan,PTK60246,Aplikasi Komputer,Ganjil 2024/2025,2,CBM
+Peternakan,PTK60204,Manajemen Prod. Ternak Potong,Ganjil 2024/2025,2,CBM
+Peternakan,PTK60240,Ekonomi Produksi,Ganjil 2024/2025,2,CBM
+Psikologi,PSI60111,Agama,Ganjil 2024/2025,2,Biasa
+Psikologi,PSI60112,Filsafat Umum,Ganjil 2024/2025,2,Biasa
+Psikologi,PSI60113,Bahasa Indonesia,Ganjil 2024/2025,2,Biasa
+Psikologi,PSI60114,Psikologi Umum,Ganjil 2024/2025,3,Biasa
+Psikologi,PSI60115,Biopsikologi,Ganjil 2024/2025,3,Biasa
+Psikologi,PSI60116,Pengantar Metode Penelitian,Ganjil 2024/2025,2,Biasa
+Psikologi,PSI60117,Identifikasi Pengembangan Diri,Ganjil 2024/2025,3,Biasa
+Psikologi,PSI60118,Statistik Dasar,Ganjil 2024/2025,2,Biasa
+Psikologi,PSI60511,Metode Penelitian Lanjutan,Ganjil 2024/2025,4,Biasa
+Psikologi,PSI60512,Psikologi Komunitas,Ganjil 2024/2025,3,Biasa
+Psikologi,PSI60513,Konseling,Ganjil 2024/2025,3,Biasa
+Psikologi,PSI60514,Psikoedukasi,Ganjil 2024/2025,3,Biasa
+Psikologi,PSI60515,Metode Pengukuran Kepribadian,Ganjil 2024/2025,3,Biasa
+Psikologi,PSI60516,Metode Intervensi Perilaku,Ganjil 2024/2025,2,Biasa
+Psikologi,PSI60517,Intervensi Kognitif,Ganjil 2024/2025,2,Biasa
+Psikologi,PSI60521,Psikologi Forensik,Ganjil 2024/2025,2,Biasa
+Psikologi,PSI60522,Psikologi Pengasuhan,Ganjil 2024/2025,2,Biasa
+Psikologi,PSI60523,Psikologi Pendidikan Anak Usia Dini,Ganjil 2024/2025,2,Biasa
+Psikologi,PSI60524,Psikologi Medis,Ganjil 2024/2025,2,Biasa
+Psikologi,PSI60525,Psikologi Sekolah,Ganjil 2024/2025,2,Biasa
+Psikologi,PSI60526,Psikologi Anak Berbakat,Ganjil 2024/2025,2,Biasa
+Psikologi,PSI60527,Psikologi Kepemimpinan,Ganjil 2024/2025,2,Biasa
+Psikologi,PSI60211,Bahasa Inggris,Ganjil 2024/2025,2,Biasa
+Psikologi,PSI60212,Kewarganegaraan,Ganjil 2024/2025,2,Biasa
+Psikologi,PSI60213,Pancasila,Ganjil 2024/2025,2,Biasa
+Psikologi,PSI60214,Statistik Lanjutan,Ganjil 2024/2025,3,Biasa
+Psikologi,PSI60215,Psikologi Perkembangan,Ganjil 2024/2025,4,Biasa
+Psikologi,PSI60216,Psikologi Industri Dan Organisasi,Ganjil 2024/2025,3,Biasa
+Psikologi,PSI60217,Teori Kepribadian,Ganjil 2024/2025,4,Biasa
+Psikologi,AND60101,Kuliah Kerja Nyata (Kkn),Ganjil 2024/2025,4,Biasa
+Psikologi,PSI60621,Psikologi Siber,Ganjil 2024/2025,2,Biasa
+Psikologi,PSI60622,Psikologi Adiksi,Ganjil 2024/2025,2,Biasa
+Psikologi,PSI60623,Psikologi Anak Berkebutuhan Khusus,Ganjil 2024/2025,2,Biasa
+Psikologi,PSI60624,Kesehatan Mental Di Tempat Kerja,Ganjil 2024/2025,2,Biasa
+Psikologi,PSI60625,Gerontologi,Ganjil 2024/2025,2,Biasa
+Psikologi,PSI60626,Analisa Jabatan,Ganjil 2024/2025,2,Biasa
+Psikologi,PPS0801,Skripsi,Ganjil 2024/2025,6,Biasa
+Sistem Informasi,JSI61103,Dasar-Dasar Pemrograman,Ganjil 2024/2025,3,Biasa
+Sistem Informasi,JSI61104,Aljabar Linear,Ganjil 2024/2025,3,Biasa
+Sistem Informasi,JSI61105,Matematika Diskrit,Ganjil 2024/2025,3,Biasa
+Sistem Informasi,JSI61113,Basis Data,Ganjil 2024/2025,3,Biasa
+Sistem Informasi,JSI61115,Proses Bisnis,Ganjil 2024/2025,3,Biasa
+Sistem Informasi,JSI61116,Pemrograman Berorientasi Objek,Ganjil 2024/2025,3,Biasa
+Sistem Informasi,JSI61119,Kewirausahaan,Ganjil 2024/2025,3,Biasa
+Sistem Informasi,JSI61131,Pemrograman Teknologi Bergerak,Ganjil 2024/2025,3,Biasa
+Sistem Informasi,JSI61132,Analisa Dan Perancangan Si,Ganjil 2024/2025,3,Biasa
+Sistem Informasi,JSI61133,Manajemen Perubahan Dan Proyek Ti,Ganjil 2024/2025,3,Biasa
+Sosiologi,MWU60104,Pendidikan Kewarganegaraan,Ganjil 2024/2025,2,Biasa
+Sosiologi,MWU60101,Pendidikan Pancasila,Ganjil 2024/2025,2,Biasa
+Sosiologi,ISF62106,Sistem Hukum Indonesia,Ganjil 2024/2025,3,Biasa
+Sosiologi,SOS61101,Pengantar Sosiologi,Ganjil 2024/2025,3,Biasa
+Sosiologi,ISF61102,Dasar-Dasar Ilmu Politik,Ganjil 2024/2025,3,Biasa
+Sosiologi,ISF61101,Dasar-Dasar Ilmu Sosial,Ganjil 2024/2025,3,Biasa
+Sosiologi,ISF61104,Bahasa Inggris I,Ganjil 2024/2025,3,Biasa
+Sosiologi,SOS61105,Statistik Sosial,Ganjil 2024/2025,3,Biasa
+Sosiologi,SOS61115,Advokasi Dan Public Speaking,Ganjil 2024/2025,3,Biasa
+Sosiologi,SOS61103,Teori Sosiologi Modern,Ganjil 2024/2025,3,Biasa
+Sosiologi,SOS61110,Sosiologi Kependudukan,Ganjil 2024/2025,3,Biasa
+Sosiologi,SOS61106,Metode Penelitian Sosiologi Kuantitatif,Ganjil 2024/2025,3,Biasa
+Sosiologi,SOS61120,Sosiologi Pendidikan,Ganjil 2024/2025,3,Biasa
+Sosiologi,SOS62109,Perubahan Sosial,Ganjil 2024/2025,3,Biasa
+Sosiologi,SOS31124,Sosiologi Konflik Dan Rekonsiliasi,Ganjil 2024/2025,3,Biasa
+Sosiologi,SOS61118,Sosiologi Gender,Ganjil 2024/2025,3,Biasa
+Sosiologi,SOS61122,Model Dan Metode Pemberdayaan Masyarakat,Ganjil 2024/2025,3,Biasa
+Sosiologi,SOS61121,Sosiologi Ekonomi,Ganjil 2024/2025,3,Biasa
+Sosiologi,SOS31119,Sosiologi Terapan,Ganjil 2024/2025,3,Biasa
+Sosiologi,SOS61127,Kebijakan Sosial,Ganjil 2024/2025,3,Biasa
+Sosiologi,SOS61126,Sosiologi Politik,Ganjil 2024/2025,3,Biasa
+Sosiologi,SOS61217,Institusi Pertanahan Minangkabau,Ganjil 2024/2025,3,Biasa
+Sosiologi,SOS62113,Penulisan Karya Ilmiah,Ganjil 2024/2025,3,Biasa
+Sosiologi,SOS62203,Pembangunan Partisipatif,Ganjil 2024/2025,3,Biasa
+Sosiologi,SOS61205,Perilaku Menyimpang Dan Kriminalitas,Ganjil 2024/2025,3,Biasa
+Sosiologi,SOS61208,Sosiologi Anak Dan Remaja,Ganjil 2024/2025,3,Biasa
+Sosiologi,SOS61208,Sosiologi Pasar,Ganjil 2024/2025,3,Biasa
+Sosiologi,SOS62221,Sosiologi Korupsi,Ganjil 2024/2025,3,Biasa
+Sosiologi,SOS61216,Pembangunan Perdesaan,Ganjil 2024/2025,3,Biasa
+Sosiologi,SOS61211,Kesejahteraan Sosial,Ganjil 2024/2025,3,Biasa
+Sosiologi,SOS61212,Sektor Informal,Ganjil 2024/2025,3,Biasa
+Sosiologi,SOS62213,Sosiologi Kesehatan,Ganjil 2024/2025,3,Biasa
+Sosiologi,SOS62214,Sosiologi Lingkungan,Ganjil 2024/2025,3,Biasa
+Sosiologi,SOS61204,Masalah Kemiskinan,Ganjil 2024/2025,3,Biasa
+Tip,TIP61109,Manajemen Lingkungan,Ganjil 2024/2025,2,CBM
+Tip,TIP62118,Pemodelan Dan Simulasi Sistem,Ganjil 2024/2025,2,CBM
+Tip,TIP61119,Sanitasi Industri,Ganjil 2024/2025,3,PjBL
+Tip,TIP62205,"Teknologi Pati, Gula Dan Sukrokimia",Ganjil 2024/2025,3,CBM
+Tip,TIP61204,Teknologi Bahan Penyegar,Ganjil 2024/2025,3,CBM
+Tip,TIP61106,Teknologi Pengemasan,Ganjil 2024/2025,3,CBM
+Tip,TIP62101,Pengantar Ilmu Ekonomi,Ganjil 2024/2025,2,CBM
+Tip,TIP61121,Produksi Bersih,Ganjil 2024/2025,3,PjBL
+Tip,TIP61204,Agroindustri Jamur,Ganjil 2024/2025,3,PjBL
+Tip,TIP61111,Pengendalian Mutu,Ganjil 2024/2025,3,CBM
+Tip,TIP62213,Teknologi Penanganan Limbah Cair Agroindustri,Ganjil 2024/2025,3,CBM
+Tip,TIP62113,Penelitian Operasional,Ganjil 2024/2025,3,CBM
+Tip,TIP62103,Dasar Komunikasi,Ganjil 2024/2025,2,CBM
+Tip,TIP61116,Keselamatan Dan Kesehatan Kerja,Ganjil 2024/2025,2,CBM
+Tip,TIP61205,Teknologi Pengolahan Buah Dan Sayur,Ganjil 2024/2025,3,CBM
+Tip,TIP62110,Rekayasa Proses,Ganjil 2024/2025,3,CBM
+Tip,TIP61105,Biologi,Ganjil 2024/2025,3,CBM
+Tip,TIP62208,Rantai Nilai Agroindustri,Ganjil 2024/2025,3,CBM
+Tip,TIP61205,Sistem Analisis Dan Desain,Ganjil 2024/2025,3,CBM
+Tip,THP61209,Teknologi Hasil Hortikultura,Ganjil 2024/2025,3,Biasa
+Tip,THP61206,Teknologi Ekstrusi,Ganjil 2024/2025,3,Biasa
+Tip,THP61207,Teknologi Biji-Bijian Dan Umbi-Umbian,Ganjil 2024/2025,3,Biasa
+Tip,THP61121,Praktikum Kimia Dan Biokimia Hasil Pertanian,Ganjil 2024/2025,3,Biasa
+Tip,THP61120,"Praktikum Pengemasan, Penyimpanan Dan Penggudangan",Ganjil 2024/2025,2,Biasa
+Tip,THP61201,Teknologi Hasil Hewani,Ganjil 2024/2025,3,Biasa
+Tip,THP61123,Pengawasan Mutu,Ganjil 2024/2025,2,Biasa
+Tip,THP61212,Teknologi Pemanfaatan Jamur,Ganjil 2024/2025,3,Biasa
+Tip,THP61103,Fisika Dasar,Ganjil 2024/2025,3,Biasa
+Teknik Komputer,CCE61104,Pengantar Analisis Rangkaian,Ganjil 2024/2025,2,Biasa
+Teknik Komputer,CCE61106,Jaringan Komputer,Ganjil 2024/2025,3,Biasa
+Teknik Komputer,AND60102,Kewirausahaan,Ganjil 2024/2025,2,Biasa
+Teknik Komputer,CCE61128,Keamanan Informasi 2,Ganjil 2024/2025,2,Biasa
+Teknik Komputer,ECS60205,Pemograman Web,Ganjil 2024/2025,2,Biasa
+Teknik Komputer,ECS60214,Antarmuka Dan Periferal,Ganjil 2024/2025,2,Biasa
+Teknik Komputer,ECS60203,Sistem Cerdas,Ganjil 2024/2025,2,Biasa
+Teknik Komputer,ECS60211,Jaringan Bergerak Dan Adhoc,Ganjil 2024/2025,2,Biasa
+Teknik Komputer,ECS60208,Cloud Computing,Ganjil 2024/2025,2,Biasa
+Teknik Pertanian Dan Biosistem,MWU60101,Agama,Ganjil 2024/2025,2,CBM
+Teknik Pertanian Dan Biosistem,MWU60102,Pancasila,Ganjil 2024/2025,2,CBM
+Teknik Pertanian Dan Biosistem,MWU60104,Bahasa Indonesia,Ganjil 2024/2025,2,CBM
+Teknik Pertanian Dan Biosistem,FTP61101,Pengantar Teknologi Pertanian,Ganjil 2024/2025,2,CBM
+Teknik Pertanian Dan Biosistem,TPB61101,Bahasa Inggris,Ganjil 2024/2025,2,CBM
+Teknik Pertanian Dan Biosistem,TPB61102,Kalkulus I,Ganjil 2024/2025,3,CBM
+Teknik Pertanian Dan Biosistem,TPB61103,Fisika I,Ganjil 2024/2025,3,CBM
+Teknik Pertanian Dan Biosistem,TPB61104,Kimia I,Ganjil 2024/2025,3,CBM
+Teknik Pertanian Dan Biosistem,TPB61105,Ilmu Pertanian Dan Biosistem,Ganjil 2024/2025,3,CBM
+Teknik Pertanian Dan Biosistem,TPB61106,Ekonomi Teknik,Ganjil 2024/2025,3,CBM
+Teknik Pertanian Dan Biosistem,TPB61107,Pindah Panas,Ganjil 2024/2025,3,CBM
+Teknik Pertanian Dan Biosistem,TPB61108,Matematika Teknik,Ganjil 2024/2025,3,CBM
+Teknik Pertanian Dan Biosistem,TPB61109,Sumber Tenaga Pertanian,Ganjil 2024/2025,3,CBM
+Teknik Pertanian Dan Biosistem,TPB61110,Gambar Teknik,Ganjil 2024/2025,3,PjBL
+Teknik Pertanian Dan Biosistem,TPB61111,Analisis Sistem,Ganjil 2024/2025,3,CBM
+Teknik Pertanian Dan Biosistem,TPB61112,Pengukuran Dan Instrumentasi,Ganjil 2024/2025,3,PjBL
+Teknik Pertanian Dan Biosistem,TPB61113,Mekanika Teknik,Ganjil 2024/2025,3,CBM
+Teknik Pertanian Dan Biosistem,AND60102,Kewirausahaan,Ganjil 2024/2025,3,PjBL
+Teknik Pertanian Dan Biosistem,TPB61114,Metodologi Penelitian,Ganjil 2024/2025,3,PjBL
+Teknik Pertanian Dan Biosistem,TPB61115,Statistika Ii,Ganjil 2024/2025,3,CBM
+Teknik Pertanian Dan Biosistem,TPB61116,Alat Dan Mesin Pertanian,Ganjil 2024/2025,3,PjBL
+Teknik Pertanian Dan Biosistem,TPB61117,Irigasi Dan Drainase,Ganjil 2024/2025,3,PjBL
+Teknik Pertanian Dan Biosistem,TPB61118,Teknik Pengolahan Hasil Pertanian Dan Pangan,Ganjil 2024/2025,3,CBM
+Teknik Pertanian Dan Biosistem,TPB61119,Energi Dan Elektrifikasi,Ganjil 2024/2025,3,CBM
+Teknik Pertanian Dan Biosistem,TPB61220,Sifat-Sifat Produk Pertanian,Ganjil 2024/2025,3,CBM
+Teknik Pertanian Dan Biosistem,TPB61221,Sistem Kontrol,Ganjil 2024/2025,3,PjBL
+Teknik Pertanian Dan Biosistem,TPB61222,Audit Energi,Ganjil 2024/2025,2,CBM
+Teknik Pertanian Dan Biosistem,TPB61223,"Hubungan Tanah, Air Dan Tanaman",Ganjil 2024/2025,3,PjBL
+Teknik Pertanian Dan Biosistem,TPB61224,Komunikasi Dan Inovasi,Ganjil 2024/2025,3,PjBL
+Teknik Pertanian Dan Biosistem,TPB61225,Manajemen Das,Ganjil 2024/2025,3,PjBL
+Teknik Pertanian Dan Biosistem,TPB61226,Manajemen Sistem Irigasi,Ganjil 2024/2025,3,PjBL
+Teknik Pertanian Dan Biosistem,TPB61227,Permodelan Teknik Tanah Dan Air,Ganjil 2024/2025,3,PjBL
+Teknik Pertanian Dan Biosistem,TPB61228,Pertanian Presisi,Ganjil 2024/2025,3,PjBL
+Teknik Pertanian Dan Biosistem,TPB61229,Transportasi Dan Penyimpanan Produk Pertanian,Ganjil 2024/2025,3,CBM
+Teknik Pertanian Dan Biosistem,TPB61230,Sistem Manajemen Ergo Pertanian,Ganjil 2024/2025,3,CBM
+Teknik Pertanian Dan Biosistem,TPB61231,Sistem Robotik Untuk Bioproduksi,Ganjil 2024/2025,3,CBM
+Teknik Pertanian Dan Biosistem,TPB61232,Elektronika,Ganjil 2024/2025,3,CBM
+Teknik Pertanian Dan Biosistem,TPB61233,Manajemen Agroindustri,Ganjil 2024/2025,2,PjBL
+Teknologi Pangan Dan Hasil Pertanian,THP61118,Ekonomi Teknik,Ganjil 2024/2025,2,Biasa
+Teknologi Pangan Dan Hasil Pertanian,THP61114,Fisiologi Dan Teknologi Pascapanen,Ganjil 2024/2025,3,Biasa
+Teknologi Pangan Dan Hasil Pertanian,THP61109,Kimia Analitik,Ganjil 2024/2025,2,Biasa
+Teknologi Pangan Dan Hasil Pertanian,THP61104,Kimia Dasar,Ganjil 2024/2025,3,Biasa
+Teknologi Pangan Dan Hasil Pertanian,THP61111,Pengantar Bioteknologi,Ganjil 2024/2025,2,Biasa
+Teknologi Pangan Dan Hasil Pertanian,THP61112,Satuan Operasi,Ganjil 2024/2025,3,Biasa
+Teknologi Pangan Dan Hasil Pertanian,THP61108,Gizi Dan Pangan,Ganjil 2024/2025,2,Biasa
+Teknologi Pangan Dan Hasil Pertanian,THP61107,Mikrobiologi Umum,Ganjil 2024/2025,2,Biasa
+Teknologi Pangan Dan Hasil Pertanian,THP61211,Produksi Bersih,Ganjil 2024/2025,3,Biasa
+Teknologi Pangan Dan Hasil Pertanian,THP61119,Termobakteriologi,Ganjil 2024/2025,2,Biasa
+Teknologi Pangan Dan Hasil Pertanian,THP61110,Alat Dan Mesin Pengolahan,Ganjil 2024/2025,2,Biasa
+Teknologi Pangan Dan Hasil Pertanian,AND60102,Kewirausahaan,Ganjil 2024/2025,2,Biasa
+Teknologi Pangan Dan Hasil Pertanian,THP61117,"Pengemasan, Penyimpanan, Penggudangan",Ganjil 2024/2025,2,Biasa
+Teknologi Pangan Dan Hasil Pertanian,THP61208,Teknologi Bahan Berlignoselulosa,Ganjil 2024/2025,3,Biasa
+Teknologi Pangan Dan Hasil Pertanian,THP61209,Teknologi Lateks,Ganjil 2024/2025,3,Biasa
+Teknologi Pangan Dan Hasil Pertanian,THP61210,Teknologi Lemak Dan Minyak,Ganjil 2024/2025,3,Biasa
+Teknologi Pangan Dan Hasil Pertanian,THP61122,Prinsip Proses Pengolahan Hasil Pertanian,Ganjil 2024/2025,3,Biasa
+Teknologi Pangan Dan Hasil Pertanian,THP61202,Teknologi Pati Dan Gula,Ganjil 2024/2025,3,Biasa
+Teknologi Pangan Dan Hasil Pertanian,THP61116,Sanitasi Pengolahan,Ganjil 2024/2025,2,Biasa
+Teknologi Pangan Dan Hasil Pertanian,THP61209,Teknologi Hasil Hortikultura,Ganjil 2024/2025,3,Biasa
+Teknologi Pangan Dan Hasil Pertanian,THP61206,Teknologi Ekstrusi,Ganjil 2024/2025,3,Biasa
+Teknologi Pangan Dan Hasil Pertanian,THP61207,Teknologi Biji-Bijian Dan Umbi-Umbian,Ganjil 2024/2025,3,Biasa
+Teknologi Pangan Dan Hasil Pertanian,THP61121,Praktikum Kimia Dan Biokimia Hasil Pertanian,Ganjil 2024/2025,3,Biasa
+Teknologi Pangan Dan Hasil Pertanian,THP61120,"Praktikum Pengemasan, Penyimpanan Dan Penggudangan",Ganjil 2024/2025,2,Biasa
+Teknologi Pangan Dan Hasil Pertanian,THP61201,Teknologi Hasil Hewani,Ganjil 2024/2025,3,Biasa
+Teknologi Pangan Dan Hasil Pertanian,THP61123,Pengawasan Mutu,Ganjil 2024/2025,2,Biasa
+Teknologi Pangan Dan Hasil Pertanian,THP61212,Teknologi Pemanfaatan Jamur,Ganjil 2024/2025,3,Biasa
+Teknologi Pangan Dan Hasil Pertanian,THP61103,Fisika Dasar,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60288,Teknik Biologi Analisis Produk Halal,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60289,Teknik Biologi Lapangan,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60210,Ekologi Hutan,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60214,Ekologi Vegetasi,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60220,Teknik Hematologi Vertebrata,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60222,Biologi Mikoriza,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60224,Fisiologi Biji,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60225,Fitohormon,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60226,Fotobiologi Tumbuhan,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60228,Metabolisme Tumbuhan,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60229,Nutrisi Tumbuhan,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60230,Genetika Molekuler,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60232,Kelainan Genetik,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60272,Biologi Forensik,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60280,Pemetaan Dan Pemodelan Biodiversitas,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60243,Mikroorganisme Ekstremofilik,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60252,Biologi Serat,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60253,Dendrokronologi,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60257,Entomologi Terapan,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60263,Protozoologi,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60267,Manajemen Herbarium,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60268,Morfologi Polen Dan Spora,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60212,Ekologi Restorasi,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60219,Patofisiologi Vertebrata,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60271,Amdal,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60274,Ekowisata,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60240,Mikrobiologi Lingkungan,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60249,Regulasi Perkembangan,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60260,Mamalogi,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60248,Kultur Sel Hewan,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60206,Malakologi,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60208,Primatologi,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60213,Ekologi Tumbuhan Invasif,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60221,Toksikologi,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60234,Sumber Daya Genetika Dan Pemuliaan,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60284,Radiobiologi,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60285,Rancangan Ilustrasi Biologi,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60237,Fitomikrobiologi,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60238,Mikologi,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60251,Adaptasi Tumbuhan,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60266,Ekspedisi Flora,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60269,Taksonomi Tumbuhan Taksa Terpilih,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60259,Iktiologi,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60202,Ekologi Bentos,Ganjil 2024/2025,3,Biasa
+Biologi,BIO60270,Teknik Identifikasi Flora,Ganjil 2024/2025,3,Biasa
+Kedokteran Gigi,BLK101,Dasar-Dasar Kedokteran Gigi,Ganjil 2024/2025,7,Biasa
+Kedokteran Gigi,BLK102,Biologi Sel Kedokteran Gigi,Ganjil 2024/2026,6,Biasa
+Kedokteran Gigi,BLK103,Sistem Organ,Ganjil 2024/2027,6,Biasa
+Kedokteran Gigi,BLK107,Imunologi Dan Dasar Patologi,Ganjil 2024/2028,6,Biasa
+Kedokteran Gigi,BLK108,Sistem Stomatognasi,Ganjil 2024/2029,6,Biasa
+Kedokteran Gigi,BLK109,Psikologi Etika Dan Hukum Kedokteran,Ganjil 2024/2030,6,Biasa
+Kedokteran Gigi,BLK113,Penyakit Rongga Mulut Dan Farmasi Kedokteran Gigi,Ganjil 2024/2031,6,Biasa
+Kedokteran Gigi,BLK114,Bedah Jaringan,Ganjil 2024/2032,6,Biasa
+Kedokteran Gigi,BLK115,Rehabilitasi Rongga Mulut,Ganjil 2024/2033,6,Biasa
+Kedokteran Gigi,BLK119,Manajemen Praktek Kedokteraan Gigi,Ganjil 2024/2034,6,Biasa
+Kedokteran Gigi,BLK120,Manifestasi Oral Penyakit Sistemik,Ganjil 2024/2035,6,Biasa
+Kedokteran Gigi,BLK121,Kegawatdaruratan Dan Bencana,Ganjil 2024/2036,6,Biasa
+Kedokteran Gigi,AGAMA,Agama,Ganjil 2024/2037,2,Biasa
+Kedokteran Gigi,BAHASAINDONESIA,Bahasa Indonesia,Ganjil 2024/2038,2,Biasa
+Kedokteran Gigi,AND60235,Metodologi Penelitian,Ganjil 2024/2039,2,Biasa
+Kimia,KIM62126,Praktikum Kimia Anorganik I,Ganjil 2024/2025,1,Biasa
