@@ -1,0 +1,30 @@
+============================================================
+[ORCHESTRATOR] Memulai Eksekusi Pipeline ETL Modular...
+============================================================
+[STAGING] Membaca data mentah dari: Data_Matakuliah_Gabungan.xlsx
+Traceback (most recent call last):
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python313\Lib\site-packages\pandas\core\indexes\base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'prodi'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ASUS\OneDrive - Universitas Andalas\TB BI IKU7\etl\pipeline\clean_data.py", line 62, in <module>
+    eksekusi_orkestrasi_pipeline_lengkap()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ASUS\OneDrive - Universitas Andalas\TB BI IKU7\etl\pipeline\clean_data.py", line 28, in eksekusi_orkestrasi_pipeline_lengkap
+    df_clean = ekstrak_dan_bersihkan_staging()
+  File "C:\Users\ASUS\OneDrive - Universitas Andalas\TB BI IKU7\database\staging\load_staging.py", line 31, in ekstrak_dan_bersihkan_staging
+    df['prodi'] = df['prodi'].astype(str).str.strip().str.title()
+                  ~~^^^^^^^^^
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python313\Lib\site-packages\pandas\core\frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python313\Lib\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'prodi'

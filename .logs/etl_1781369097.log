@@ -1,0 +1,22 @@
+============================================================
+[ORCHESTRATOR] Memulai Eksekusi Pipeline ETL Modular...
+============================================================
+[STAGING] Membaca data mentah dari: Data_Matakuliah_Gabungan.csv
+[STAGING SUCCESS] Data bersih siap di area processed.
+[DIMENSIONS] Mulai mengisi tabel-tabel dimensi...
+[DIMENSIONS WARNING] Beberapa prodi tidak otomatis terpetakan (periksa data/mappings/prodi_to_fakultas.csv):
+ - Antropologi Sosial
+ - Ilmu Tanah
+ - Kewirausahaan
+ - Peternakan
+ - Sistem Informasi
+ - Tip
+ - Teknik Komputer
+ - Teknik Pertanian Dan Biosistem
+ - Teknologi Pangan Dan Hasil Pertanian
+[DIMENSIONS SUCCESS] Seluruh komponen tabel dimensi terisi.
+[FACTS] Memetakan relasi bisnis dan mengisi tabel fakta...
+[FACTS SUCCESS] Total 727 baris termuat di Fact Table.
+============================================================
+[SUKSES MASAL] Seluruh file folder modular bekerja dengan sempurna!
+============================================================
