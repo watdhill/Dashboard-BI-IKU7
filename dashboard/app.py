@@ -252,6 +252,265 @@ def show_dashboard(df, etl_status):
     df_biasa = df_filtered[df_filtered['metode'] == 'Biasa'][['prodi', 'kode_mk', 'nama mata kuliah', 'sks', 'metode']]
     st.dataframe(df_biasa, width='stretch')
 
+    # ══════════════════════════════════════════════════════════════
+    # INSIGHT & REKOMENDASI STRATEGIS BERBASIS STAKEHOLDER
+    # ══════════════════════════════════════════════════════════════
+    st.markdown("---")
+    st.markdown("""<h2 style='text-align:center;margin-bottom:4px'>💡 Analisis Insight & Rekomendasi Strategis</h2>
+    <p style='text-align:center;color:#94a3b8;font-size:15px;margin-top:0'>Berbasis Stakeholder — Semester Ganjil 2024/2025</p>""", unsafe_allow_html=True)
+    st.markdown("""<p style='text-align:center;color:#cbd5e1;font-size:14px;max-width:900px;margin:0 auto 24px auto'>
+    Temuan analitik dari dasbor IKU 7 telah diekstraksi dan dipetakan menjadi rekomendasi <em>actionable</em>
+    bagi tiga tingkatan pemangku kebijakan.</p>""", unsafe_allow_html=True)
+
+    # --- Compute dynamic values for insight text ---
+    _total_all = len(df)
+    _mk_iku7_all = len(df[df['metode'].isin(['PjBL', 'CBM'])])
+    _persen_all = (_mk_iku7_all / _total_all * 100) if _total_all > 0 else 0
+    _mk_biasa_all = len(df[df['metode'] == 'Biasa'])
+
+    _total_prodi = df.groupby('prodi').size().rename('total')
+    _iku7_prodi = df[df['metode'].isin(['PjBL', 'CBM'])].groupby('prodi').size().rename('iku7')
+    _ps = pd.concat([_total_prodi, _iku7_prodi], axis=1).fillna(0)
+    _ps['percent'] = (_ps['iku7'] / _ps['total'] * 100).fillna(0)
+    _ps = _ps.reset_index()
+
+    _prodi_100_list = _ps[_ps['percent'] == 100]['prodi'].tolist()
+    _prodi_0_count = len(_ps[_ps['percent'] == 0])
+    _prodi_100_names = ', '.join(_prodi_100_list[:5]) + ('...' if len(_prodi_100_list) > 5 else '') if _prodi_100_list else '-'
+
+    # Top 5 prodi with most 'Biasa' MK
+    _biasa_all = df[df['metode'] == 'Biasa']
+    _biasa_top5 = _biasa_all.groupby('prodi').size().reset_index(name='cnt').sort_values('cnt', ascending=False).head(5)
+    _top5_names = ', '.join(_biasa_top5['prodi'].tolist()) if not _biasa_top5.empty else '-'
+
+    # Health prodi at 0%
+    _health_keywords = ['Biomedis', 'Kedokteran', 'Farmasi', 'Keperawatan']
+    _health_zero = _ps[(_ps['percent'] == 0) & (_ps['prodi'].str.contains('|'.join(_health_keywords), case=False, na=False))]['prodi'].tolist()
+    _health_zero_names = ', '.join(_health_zero) if _health_zero else 'tidak terdeteksi'
+
+    # Shared CSS for insight cards
+    insight_css = """
+    <style>
+    .insight-section-title {
+        display:flex; align-items:center; gap:12px;
+        padding:16px 20px; border-radius:14px;
+        margin:28px 0 16px 0;
+        font-size:20px; font-weight:700; color:#fff;
+    }
+    .insight-section-title .title-icon {
+        font-size:28px; width:48px; height:48px;
+        display:flex; align-items:center; justify-content:center;
+        border-radius:12px; background:rgba(255,255,255,0.15);
+    }
+    .insight-section-title .title-sub {
+        font-size:13px; font-weight:400; color:rgba(255,255,255,0.8);
+        margin-top:2px;
+    }
+    .insight-card {
+        background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
+        border-radius:14px; padding:22px 24px;
+        margin-bottom:16px;
+        border-left:5px solid;
+        box-shadow: 0 4px 20px rgba(0,0,0,0.25);
+        transition: transform 0.15s ease, box-shadow 0.15s ease;
+    }
+    .insight-card:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 8px 30px rgba(0,0,0,0.35);
+    }
+    .insight-card .card-label {
+        display:inline-block; font-size:10px; font-weight:700;
+        letter-spacing:1.5px; text-transform:uppercase;
+        padding:4px 10px; border-radius:6px;
+        margin-bottom:10px;
+    }
+    .insight-card .card-label.insight { background:rgba(99,110,250,0.2); color:#818cf8; }
+    .insight-card .card-label.rekom { background:rgba(0,204,150,0.2); color:#34d399; }
+    .insight-card .card-title {
+        font-size:17px; font-weight:700; color:#f1f5f9;
+        margin-bottom:10px; line-height:1.35;
+    }
+    .insight-card .card-body {
+        font-size:14px; color:#cbd5e1; line-height:1.7;
+    }
+    .insight-card .card-body strong { color:#e2e8f0; }
+    .insight-card .card-body em { color:#94a3b8; }
+    .highlight-num {
+        display:inline-block; background:rgba(99,110,250,0.15);
+        color:#a5b4fc; font-weight:700; padding:1px 8px;
+        border-radius:6px; font-size:15px;
+    }
+    </style>
+    """
+    st.markdown(insight_css, unsafe_allow_html=True)
+
+    # ── SECTION 1: Rektorat ──────────────────────────────────────
+    st.markdown("""<div class='insight-section-title' style='background:linear-gradient(90deg,#1e3a5f,#0f2440)'>
+        <div class='title-icon'>🏛️</div>
+        <div><div>Pimpinan Universitas (Rektorat / WR I Bidang Akademik)</div>
+        <div class='title-sub'>Pandangan makro-strategis untuk kebijakan institusional dan alokasi resource</div></div>
+    </div>""", unsafe_allow_html=True)
+
+    r1_col1, r1_col2 = st.columns(2)
+    with r1_col1:
+        st.markdown(f"""
+        <div class='insight-card' style='border-color:#636EFA'>
+            <div class='card-label insight'>📊 Insight 1</div>
+            <div class='card-title'>Kesenjangan Kesiapan Rumpun Keilmuan (Polarisasi Performa)</div>
+            <div class='card-body'>
+                Data menunjukkan polarisasi yang ekstrem. Baseline capaian universitas berada di angka
+                <span class='highlight-num'>{_persen_all:.2f}%</span>. Prodi dari rumpun Vokasional dan Agrokompleks
+                (<strong>{_prodi_100_names}</strong>) telah menyentuh angka konversi
+                <span class='highlight-num'>100%</span>. Di sisi lain,
+                <span class='highlight-num'>{_prodi_0_count} prodi</span> masih berada di angka <strong>0%</strong>.
+            </div>
+        </div>
+        """, unsafe_allow_html=True)
+
+    with r1_col2:
+        st.markdown(f"""
+        <div class='insight-card' style='border-color:#00CC96'>
+            <div class='card-label rekom'>✅ Rekomendasi 1</div>
+            <div class='card-title'>Tetapkan "Center of Excellence" dari Prodi 100%</div>
+            <div class='card-body'>
+                Universitas tidak perlu memulai pembinaan dari nol. Prodi dengan capaian 100% harus ditetapkan sebagai
+                <strong>Pusat Percontohan</strong>. Dokumen <em>Rencana Pembelajaran Semester</em> (RPS) dan rubrik penilaian
+                PjBL/CBM dari prodi-prodi ini harus ditarik dan dijadikan <strong>template rujukan resmi</strong>
+                bagi fakultas lain yang masih kesulitan melakukan transisi.
+            </div>
+        </div>
+        """, unsafe_allow_html=True)
+
+    r2_col1, r2_col2 = st.columns(2)
+    with r2_col1:
+        st.markdown(f"""
+        <div class='insight-card' style='border-color:#636EFA'>
+            <div class='card-label insight'>📊 Insight 2</div>
+            <div class='card-title'>Implementasi Hukum Pareto (Aturan 80/20) untuk Akselerasi</div>
+            <div class='card-body'>
+                Dari <span class='highlight-num'>{_mk_biasa_all} MK</span> yang belum memenuhi IKU 7
+                (status "Biasa"), lebih dari separuhnya berasal hanya dari <strong>5 Program Studi</strong> dengan
+                beban kelas terpadat: <strong>{_top5_names}</strong>.
+            </div>
+        </div>
+        """, unsafe_allow_html=True)
+
+    with r2_col2:
+        st.markdown(f"""
+        <div class='insight-card' style='border-color:#00CC96'>
+            <div class='card-label rekom'>✅ Rekomendasi 2</div>
+            <div class='card-title'>Konsentrasi Intervensi pada "5 Prodi Raksasa"</div>
+            <div class='card-body'>
+                Hindari kebijakan pemaksaan serentak. Strategi intervensi harus dikonsentrasikan secara eksklusif
+                pada <strong>5 Prodi</strong> tersebut. Dengan menetapkan target konversi parsial
+                (misalnya <strong>30%</strong> dari total kelas), grafik baseline universitas akan melonjak
+                secara <strong>efisien dan signifikan</strong> pada semester berikutnya.
+            </div>
+        </div>
+        """, unsafe_allow_html=True)
+
+    # ── SECTION 2: Dekanat ───────────────────────────────────────
+    st.markdown("""<div class='insight-section-title' style='background:linear-gradient(90deg,#1e3a5f,#1a365d)'>
+        <div class='title-icon'>🎓</div>
+        <div><div>Pimpinan Fakultas (Dekanat / WD I Bidang Akademik)</div>
+        <div class='title-sub'>Jembatan kebijakan — pengawasan pelaporan dan penyelesaian kendala struktural tingkat fakultas</div></div>
+    </div>""", unsafe_allow_html=True)
+
+    d1_col1, d1_col2 = st.columns(2)
+    with d1_col1:
+        st.markdown(f"""
+        <div class='insight-card' style='border-color:#f59e0b'>
+            <div class='card-label insight'>📊 Insight 1</div>
+            <div class='card-title'>Potensi "False-Negative" — Kegagalan Pelaporan Administratif (Rumpun Kesehatan)</div>
+            <div class='card-body'>
+                Dasbor mendeteksi anomali <em>zero-performance</em> (0%) pada prodi:
+                <strong>{_health_zero_names}</strong>.
+                Secara standar pendidikan medis klinis, metode <em>Problem-Based Learning</em> (PBL) dan bedah kasus
+                sejatinya sudah menjadi rutinitas. Angka 0% ini sangat kuat diindikasi sebagai
+                <strong>kegagalan pelaporan metadata</strong>, bukan kegagalan pedagogis dosen.
+            </div>
+        </div>
+        """, unsafe_allow_html=True)
+
+    with d1_col2:
+        st.markdown("""
+        <div class='insight-card' style='border-color:#00CC96'>
+            <div class='card-label rekom'>✅ Rekomendasi 1</div>
+            <div class='card-title'>Audit & Revisi Tagging SIAKAD untuk Kelas Tutorial Klinis</div>
+            <div class='card-body'>
+                Dekan di Fakultas Kedokteran, Farmasi, dan Kedokteran Gigi harus segera menerbitkan
+                <strong>edaran instruksi teknis</strong> kepada operator SIAKAD tingkat prodi.
+                Operator harus melakukan audit dan merevisi tagging (label) pada kelas-kelas tutorial klinis
+                menjadi <strong>"CBM"</strong> di dalam sistem. Perbaikan administrasi sederhana ini akan langsung
+                mengoreksi warna merah pada dasbor <strong>tanpa merombak cara mengajar</strong>.
+            </div>
+        </div>
+        """, unsafe_allow_html=True)
+
+    d2_col1, d2_col2 = st.columns(2)
+    with d2_col1:
+        st.markdown("""
+        <div class='insight-card' style='border-color:#f59e0b'>
+            <div class='card-label insight'>📊 Insight 2</div>
+            <div class='card-title'>Transisi Bertahap (Low-Hanging Fruit) untuk Rumpun Sosio-Humaniora</div>
+            <div class='card-body'>
+                Fakultas seperti Hukum dan ISIP mencatatkan beban kelas "Biasa" yang masif.
+                Hal ini menunjukkan resistensi karena dosen ilmu teori/sosial mungkin merasa metode
+                "Proyek" (PjBL) <strong>tidak relevan</strong> atau terlalu memberatkan.
+            </div>
+        </div>
+        """, unsafe_allow_html=True)
+
+    with d2_col2:
+        st.markdown("""
+        <div class='insight-card' style='border-color:#00CC96'>
+            <div class='card-label rekom'>✅ Rekomendasi 2</div>
+            <div class='card-title'>Fasilitasi Lokakarya CBM sebagai Low-Hanging Fruit</div>
+            <div class='card-body'>
+                Dekan terkait harus memfasilitasi <strong>Bimtek</strong> yang difokuskan pada transisi menuju
+                metode <strong>CBM</strong> (<em>Case-Based Method</em>) terlebih dahulu, bukan PjBL.
+                Mendorong dosen Hukum menggunakan <strong>analisis putusan pengadilan riil</strong>, atau dosen
+                Psikologi dengan <strong>studi kasus klinis</strong>, jauh lebih mudah dieksekusi daripada
+                merancang proyek fisik berskala besar.
+            </div>
+        </div>
+        """, unsafe_allow_html=True)
+
+    # ── SECTION 3: Kaprodi ───────────────────────────────────────
+    st.markdown("""<div class='insight-section-title' style='background:linear-gradient(90deg,#1e3a5f,#0d2137)'>
+        <div class='title-icon'>👤</div>
+        <div><div>Ketua Program Studi (Kaprodi)</div>
+        <div class='title-sub'>Eksekutor langsung — kendali jadwal, ploting dosen, dan validasi RPS</div></div>
+    </div>""", unsafe_allow_html=True)
+
+    k_col1, k_col2 = st.columns(2)
+    with k_col1:
+        st.markdown("""
+        <div class='insight-card' style='border-color:#8b5cf6'>
+            <div class='card-label insight'>📊 Insight</div>
+            <div class='card-title'>Identifikasi Target Mata Kuliah Konversi</div>
+            <div class='card-body'>
+                Kaprodi seringkali kebingungan menentukan <strong>mata kuliah mana</strong> yang harus diubah
+                terlebih dahulu agar memenuhi standar MBKM. Tanpa panduan data, keputusan menjadi subjektif
+                dan tidak efisien.
+            </div>
+        </div>
+        """, unsafe_allow_html=True)
+
+    with k_col2:
+        st.markdown("""
+        <div class='insight-card' style='border-color:#00CC96'>
+            <div class='card-label rekom'>✅ Rekomendasi</div>
+            <div class='card-title'>Gunakan Tabel "Daftar Prioritas" di Atas untuk Seleksi MK</div>
+            <div class='card-body'>
+                Kaprodi wajib menggunakan fitur tabel interaktif <strong>"Daftar Prioritas Konversi"</strong>
+                di atas. Seleksi <strong>2–4 mata kuliah</strong> di semester menengah (Semester 3 atau 5)
+                yang paling fleksibel, lalu instruksikan Dosen Pengampu untuk <strong>merevisi RPS</strong>
+                dan menugaskan minimal <strong>satu pemecahan kasus nyata</strong> di semester mendatang.
+            </div>
+        </div>
+        """, unsafe_allow_html=True)
+
 
 def list_data_files():
     root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
@@ -556,6 +815,12 @@ def show_reports(df, etl_status):
     st.download_button('Download CSV', csv, file_name='iku7_export.csv', mime='text/csv')
 
 
+
+
+
+
+
+
 def show_settings():
     st.markdown("<h2>🔧 Settings</h2>", unsafe_allow_html=True)
     try:
@@ -601,6 +866,7 @@ def main():
     # Render custom HTML sidebar navigation (uses query param `menu`)
     menu_items = [
         ("Dashboard", "📊"),
+
         ("Data Browser", "🗂️"),
         ("Dimensions", "📚"),
         ("Reports", "📈"),
@@ -732,6 +998,7 @@ def main():
             show_dashboard(df, etl_status)
     elif choice == 'Data Browser':
         show_data_browser(df, etl_status)
+
     elif choice == 'ETL Control':
         st.markdown("<h2>⚙️ ETL Control</h2>", unsafe_allow_html=True)
         st.markdown('Jalankan pipeline pembersihan dan muat ulang data.')
